@@ -17,4 +17,4 @@ Swedish:
 
 ### The cards!
 
-Contact us to get copies of our easy to use cards:
+[Contact us](mailto:fixitnowordeleteit@yds.se) to get copies of our easy to use cards:
