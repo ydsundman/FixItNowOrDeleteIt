@@ -8,7 +8,7 @@ Do you have a mountain of bugs? Are you tired of sitting in endless meetings to 
 Are you ready to prioritize and fix the bug? If so, then fix it now.
 If not, then delete it.
 
-It's that simple. When it comes to bugs, you have two options: Fix it now or delete it.
+It's that simple. When it comes to bugs, you only have two options: Fix it now or delete it.
 
 We hope the resources below will help you enjoy your journey to zero bugs.
 
