@@ -1,8 +1,16 @@
 ## Fix it now or delete it!
 
-Welcome to The Definitive Bug Management System! You'll find all the resources you need to start managing your bugs effectively.
+Welcome to The Definitive Bug Management System!
 
-Just remember, when it comes to bugs, you have two options: Fix it now or delete it!
+Do you have a mountain of bugs? Are you tired of sitting in endless meetings to go through them, only to have to do it all over again at the next meeting? Would you prefer to focus on creating the best product possible instead? Well, using this system you can stop managing bugs and start focusing on quality.
+
+### The system
+Are you ready to prioritize and fix the bug? If so, then fix it now.
+If not, then delete it.
+
+It's that simple. When it comes to bugs, you have two options: Fix it now or delete it.
+
+We hope the resources below will help you enjoy your journey to zero bugs.
 
 ### Info graphic
 
@@ -20,3 +28,10 @@ Swedish:
 [Contact us](mailto:fixitnowordeleteit@yds.se) to get copies of our easy to use cards:
 
 ![The cards, square shaped with a bookring holding them together](images/cards.jpg)
+
+
+### The app
+Coming soon!
+
+### Feedback?
+We love feedback. Have a suggestion? Want to log a bug :)? Please [contact us](mailto:fixitnowordeleteit@yds.se)
