@@ -34,4 +34,6 @@ Swedish:
 Coming soon!
 
 ### Feedback?
-We love feedback. Have a suggestion? Want to log a bug :)? Please [contact us](mailto:fixitnowordeleteit@yds.se)
+We love feedback. Have a suggestion? Want to log a bug :)?
+
+Please [contact us](mailto:fixitnowordeleteit@yds.se)
