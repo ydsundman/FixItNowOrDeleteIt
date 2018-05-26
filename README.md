@@ -20,4 +20,4 @@ Swedish:
 [Contact us](mailto:fixitnowordeleteit@yds.se) to get copies of our easy to use cards:
 ![The cards, square shaped with a bookring holding them together](images/cards.jpg)
 ![Sample content of the cards showing a statement that leads to fixing the bug now](images/card01.jpg)
-![Sample content of the cards showing statements that lead to deleting the bug](images/cards.jpg)
+![Sample content of the cards showing statements that lead to deleting the bug](images/card02.jpg)
