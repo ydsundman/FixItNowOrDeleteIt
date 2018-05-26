@@ -1,4 +1,4 @@
-## Stop managing bugs and start focusing on quality!
+## Fix it now or delete it!
 
 Welcome to The Definitive Bug Management System! You'll find all the resources you need to start managing your bugs effectively.
 
