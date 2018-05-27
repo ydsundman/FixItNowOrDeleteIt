@@ -31,9 +31,11 @@ Swedish:
 
 
 ### The app
-Coming soon!
+MVP version available for [Android](https://play.google.com/store/apps/details?id=se.yds.dbms)
+
+Coming soon for iOS.
 
 ### Feedback?
-We love feedback. Have a suggestion? Want to log a bug :)?
+We love feedback. Have a suggestion? Want to log a bug ;) ?
 
 Please [contact us](mailto:fixitnowordeleteit@yds.se)
