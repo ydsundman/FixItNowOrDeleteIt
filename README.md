@@ -31,9 +31,11 @@ Swedish:
 
 
 ### The app
-MVP version available for [Android](https://play.google.com/store/apps/details?id=se.yds.dbms)
+MVP version available for:
 
-Coming soon for iOS.
+[Android](https://play.google.com/store/apps/details?id=se.yds.dbms)
+
+[iOS](https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8)
 
 ### Feedback?
 We love feedback. Have a suggestion? Want to log a bug ;) ?
