@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Fix It Now Or Delete It
 description: The Definitive Bug Management System
 logo: images/bug.png
+baseurl: /FixItNowOrDeleteIt
