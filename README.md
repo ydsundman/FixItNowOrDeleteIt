@@ -1,6 +1,6 @@
-## Fix it now or delete it!
+## The Definitive Bug Management System!
 
-Welcome to The Definitive Bug Management System!
+Welcome to Fix It Now or Delete It!
 
 Do you have a mountain of bugs? Are you tired of sitting in endless meetings to go through them, only to have to do it all over again at the next meeting? Would you prefer to focus on creating the best product possible instead? Well, using this system you can stop managing bugs and start focusing on quality.
 
