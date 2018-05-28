@@ -16,10 +16,12 @@ We hope the resources below will help you enjoy your journey to zero bugs.
 
 A visual explanation of the system, now available in two languages:
 
-English:
+<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-en.pdf" target="_blank" >Download</a> the pdf in English
+
 ![Info graphic explaing the bug management system, fix it now or delete it in English](images/info-graphic-en.png)
 
-Swedish:
+<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-sv.pdf" target="_blank" >Download</a> the pdf in Swedish
+
 ![Info graphic explaing the bug management system, fix it now or delete it in Swedish](images/info-graphic-sv.png)
 
 
