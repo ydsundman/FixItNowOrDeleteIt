@@ -10,6 +10,8 @@ If not, then delete it.
 
 It's that simple. When it comes to bugs, you only have two options: Fix it now or delete it.
 
+For more details you can read the original blog entry: <a href="https://blog.crisp.se/2018/02/05/yassalsundman/stop-managing-bugs-start-focusing-on-quality" target="_blank">Stop Managing Bugs, Start Focussing on Quality</a>
+
 We hope the resources below will help you enjoy your journey to zero bugs.
 
 ### Info graphic
@@ -33,11 +35,14 @@ A visual explanation of the system, now available in two languages:
 
 
 ### The app
-MVP version available for:
 
-[Android](https://play.google.com/store/apps/details?id=se.yds.dbms)
+<a href="https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8" target="_blank">
+	<img alt="Fix It Now or Delete It on the App Store" src="/images/apple-app-store-badge.svg" width="200px">
+</a>
 
-[iOS](https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8)
+<a href="https://play.google.com/store/apps/details?id=se.yds.dbms" target="_blank">
+	<img alt="Fix It Now or Delete It on Google Play" src="/images/google-play-badge.png" width="200px">
+</a>
 
 ### Feedback?
 We love feedback. Have a suggestion? Want to log a bug ;) ?
