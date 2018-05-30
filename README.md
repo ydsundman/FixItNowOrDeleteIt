@@ -44,6 +44,15 @@ A visual explanation of the system, now available in two languages:
 	<img alt="Fix It Now or Delete It on Google Play" src="/images/google-play-badge.png" width="200px">
 </a>
 
+### The t-shirt
+You can order the t-shirt at the [Crisp gear store](https://shop.spreadshirt.se/crispgear)
+
+<p>
+<img alt="White t-shirt with the logo picturing a bug and the text - Fix it now or delete it" src="/images/tshirt-white.png" width="100px">
+<img alt="White t-shirt with black collar with the logo picturing a bug and the text - Fix it now or delete it" src="/images/tshirt-blackrim.png" width="100px">
+</p>
+
+
 ### Feedback?
 We love feedback. Have a suggestion? Want to log a bug ;) ?
 
