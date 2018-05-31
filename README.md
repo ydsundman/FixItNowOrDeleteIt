@@ -10,9 +10,11 @@ If not, then delete it.
 
 It's that simple. When it comes to bugs, you only have two options: Fix it now or delete it.
 
-For more details you can read the original blog entry: <a href="https://blog.crisp.se/2018/02/05/yassalsundman/stop-managing-bugs-start-focusing-on-quality" target="_blank">Stop Managing Bugs, Start Focussing on Quality</a>
+For more details you can:
+ * read the original blog entry: <a href="https://blog.crisp.se/2018/02/05/yassalsundman/stop-managing-bugs-start-focusing-on-quality" target="_blank">Stop Managing Bugs, Start Focussing on Quality</a>
+ * or watch the lightning talk from the Agila Sverige conference in 2018:  <a href="https://agilasverige.solidtango.com/video/dealing-with-bugs-by-deletion" target="_blank">Dealing with Bugs by Deletion</a>
 
-We hope the resources below will help you enjoy your journey to zero bugs.
+We hope the resources below will help you succeed in your journey to zero bugs.
 
 ### Info graphic
 
