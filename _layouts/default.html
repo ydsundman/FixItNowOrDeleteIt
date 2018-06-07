@@ -15,6 +15,14 @@
 
       gtag('config', 'UA-120550993-1');
     </script>
+    <script>
+     var trackDownloadLink = function(url) {
+       ga('send', 'event', 'download', 'click', url, {
+         'transport': 'beacon',
+         'hitCallback': function(){document.location = url;}
+         });
+       }
+    </script>
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
