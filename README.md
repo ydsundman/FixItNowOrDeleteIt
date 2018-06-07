@@ -31,7 +31,7 @@ A visual explanation of the system, now available in two languages:
 
 ### The cards!
 
-<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/BugSystem.pdf" onclick="trackDownloadLink('https://ydsundman.github.io/FixItNowOrDeleteIt/images/BugSystem.pdf'); return false;"  >Download</a> the cards to print yourself.
+<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/BugSystem.pdf" target="_blank" >Download</a> the cards to print yourself.
 
 Instructions: Print the document as a double sided page. The cards are in order and start from the top left corner. Go through the cards row by row until you end at the last card on the bottom right corner. Laminate the cards (or use thicker paper) then cut along the dotted lines, finally hole punch the corner and attach them with a ring.
 
