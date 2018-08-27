@@ -20,13 +20,9 @@ We hope the resources below will help you succeed in your journey to zero bugs.
 
 A visual explanation of the system, now available in two languages:
 
-<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-en.pdf" target="_blank" >Download</a> the pdf in English
+Download the pdf in <a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-en.pdf" target="_blank" >English</a> or in <a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-sv.pdf" target="_blank" >Swedish</a>
 
-![Info graphic explaing the bug management system, fix it now or delete it in English](images/info-graphic-en.png)
-
-<a href="https://ydsundman.github.io/FixItNowOrDeleteIt/images/info-graphic-bug-sv.pdf" target="_blank" >Download</a> the pdf in Swedish
-
-![Info graphic explaing the bug management system, fix it now or delete it in Swedish](images/info-graphic-sv.png)
+<img alt="Info graphic explaing the bug management system, fix it now or delete it in English" src="/images/info-graphic-en.png" width="300px"> <img alt="Info graphic explaing the bug management system, fix it now or delete it in Swedish" src="/images/info-graphic-sv.png" width="300px">
 
 ### The book
 Available on <a href="https://leanpub.com/fixitnowordeleteit" target="_blank">LeanPub</a>
