@@ -31,6 +31,8 @@ A visual explanation of the system, now available in two languages:
 ### The book
 Available on <a href="https://leanpub.com/fixitnowordeleteit" target="_blank">LeanPub</a>
 
+<img alt="Cover of the book 'A Team Implements a Zero Bug Policy' with the title displayed as well as an image of a bug with the logo 'Fix it now or delete it'" src="/images/fixitnowpixibook.png" width="300px">
+
 ### The app
 
 <a href="https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8" target="_blank">
