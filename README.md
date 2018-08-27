@@ -25,7 +25,7 @@ Download the pdf in <a href="https://ydsundman.github.io/FixItNowOrDeleteIt/imag
 <img alt="Info graphic explaing the bug management system, fix it now or delete it in English" src="/images/info-graphic-en.png" width="300px"> <img alt="Info graphic explaing the bug management system, fix it now or delete it in Swedish" src="/images/info-graphic-sv.png" width="300px">
 
 ### The book
-Available on <a href="https://leanpub.com/fixitnowordeleteit" target="_blank">LeanPub</a>
+Download for free on <a href="https://leanpub.com/fixitnowordeleteit" target="_blank">LeanPub</a>
 
 <img alt="Cover of the book 'A Team Implements a Zero Bug Policy' with the title displayed as well as an image of a bug with the logo 'Fix it now or delete it'" src="/images/fixitnowpixibook.png" width="300px">
 
