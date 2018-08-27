@@ -28,6 +28,18 @@ A visual explanation of the system, now available in two languages:
 
 ![Info graphic explaing the bug management system, fix it now or delete it in Swedish](images/info-graphic-sv.png)
 
+### The book
+Available on <a href="https://leanpub.com/fixitnowordeleteit" target="_blank">LeanPub</a>
+
+### The app
+
+<a href="https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8" target="_blank">
+	<img alt="Fix It Now or Delete It on the App Store" src="/images/apple-app-store-badge.svg" width="200px">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=se.yds.dbms" target="_blank">
+	<img alt="Fix It Now or Delete It on Google Play" src="/images/google-play-badge.png" width="200px">
+</a>
 
 ### The cards!
 
@@ -39,16 +51,6 @@ Instructions: Print the document as a double sided page. The cards are in order 
 
 ![The cards, square shaped with a bookring holding them together](images/cards.jpg)
 
-
-### The app
-
-<a href="https://itunes.apple.com/us/app/fix-it-now-or-delete-it/id1390222365?ls=1&mt=8" target="_blank">
-	<img alt="Fix It Now or Delete It on the App Store" src="/images/apple-app-store-badge.svg" width="200px">
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=se.yds.dbms" target="_blank">
-	<img alt="Fix It Now or Delete It on Google Play" src="/images/google-play-badge.png" width="200px">
-</a>
 
 ### The t-shirt
 You can buy the t-shirt at the [Crisp gear store](https://shop.spreadshirt.se/crispgear)
