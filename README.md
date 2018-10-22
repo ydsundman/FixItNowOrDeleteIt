@@ -65,6 +65,6 @@ We love feedback. Have a suggestion? Want to log a bug ;) ?
 Please [contact us](mailto:fixitnowordeleteit@yds.se)
 
 ### About us
-We're [Daniel](https://www.crisp.se/konsulter/daniel-sundman) and [Yassal](https://www.crisp.se/konsulter/yassal-sundman). We're both coders and one of us coaches teams! We're based in Stockholm and are members of [Crisp](https://www.crisp.se). Need help coding React Native apps or coaching teams? We'd be happy to set up a meeting to talk!!
+We're [Daniel](https://www.crisp.se/konsulter/daniel-sundman) and [Yassal](https://www.crisp.se/konsulter/yassal-sundman). We're both coders and one of us coaches teams! We're based in Stockholm and are members of [Crisp](https://www.crisp.se). Need help coding React Native apps or coaching teams? We'd be happy to set up a meeting to talk!
 
 [Privacy Policy](privacy_policy.md)
